@@ -5,6 +5,14 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - passagemath-categories
   - passagemath-cmr
   - passagemath-combinat
+  - passagemath-environment
+  - passagemath-glpk
+  - passagemath-graphs
+  - passagemath-highs
+  - passagemath-modules
+  - passagemath-objects
+  - passagemath-plot
   - passagemath-repl
