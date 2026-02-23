@@ -5,6 +5,9 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - networkx
+  - numpy
+  - scipy
   - passagemath-categories
   - passagemath-cmr
   - passagemath-combinat
