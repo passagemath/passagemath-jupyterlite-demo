@@ -5,6 +5,8 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - cddlib
+  - lrcalc-python
   - networkx
   - numpy
   - python-igraph
@@ -18,5 +20,7 @@ dependencies:
   - passagemath-highs
   - passagemath-modules
   - passagemath-objects
+  - passagemath-ppl
   - passagemath-plot
   - passagemath-repl
+  - passagemath-tdlib
