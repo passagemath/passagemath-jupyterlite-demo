@@ -20,6 +20,7 @@ dependencies:
   - passagemath-highs
   - passagemath-modules
   - passagemath-objects
+  - passagemath-polyhedra
   - passagemath-ppl
   - passagemath-plot
   - passagemath-repl
