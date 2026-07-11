@@ -10,18 +10,23 @@ dependencies:
   - networkx
   - numpy
   - python-igraph
+  - pyscipopt
   - scipy
   - passagemath-categories
+  - passagemath-cliquer
   - passagemath-cmr
   - passagemath-combinat
   - passagemath-environment
   - passagemath-glpk
   - passagemath-graphs
   - passagemath-highs
+  - passagemath-m4ri-m4rie
   - passagemath-modules
+  - passagemath-nauty
   - passagemath-objects
   - passagemath-polyhedra
   - passagemath-ppl
   - passagemath-plot
   - passagemath-repl
   - passagemath-tdlib
+  - passagemath-topcom
