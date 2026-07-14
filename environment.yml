@@ -6,7 +6,6 @@ dependencies:
   - xeus-python
   - ipycanvas
   - cddlib
-  - cocoa5
   - ecl
   - fricas0-ecl
   - frobby
