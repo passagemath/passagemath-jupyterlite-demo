@@ -6,23 +6,35 @@ dependencies:
   - xeus-python
   - ipycanvas
   - cddlib
+  - cocoa5
+  - ecl
+  - fricas0-ecl
+  - frobby
   - lrcalc-python
+  - nauty
   - networkx
+  - normaliz
   - numpy
+  - pari
   - python-igraph
   - pyscipopt
   - scipy
+  - singular
+  - tarski
+  - topcom
   - passagemath-categories
   - passagemath-cliquer
   - passagemath-cmr
   - passagemath-combinat
   - passagemath-environment
+  - passagemath-flint
   - passagemath-glpk
   - passagemath-graphs
   - passagemath-highs
   - passagemath-m4ri-m4rie
   - passagemath-modules
   - passagemath-nauty
+  - passagemath-ntl
   - passagemath-objects
   - passagemath-polyhedra
   - passagemath-ppl
