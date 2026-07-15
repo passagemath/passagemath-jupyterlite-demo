@@ -29,7 +29,9 @@ dependencies:
   - passagemath-flint
   - passagemath-glpk
   - passagemath-graphs
+  - passagemath-gsl
   - passagemath-highs
+  - passagemath-iml
   - passagemath-m4ri-m4rie
   - passagemath-modules
   - passagemath-nauty
@@ -39,5 +41,6 @@ dependencies:
   - passagemath-ppl
   - passagemath-plot
   - passagemath-repl
+  - passagemath-symbolics
   - passagemath-tdlib
   - passagemath-topcom
