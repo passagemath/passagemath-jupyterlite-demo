@@ -37,9 +37,10 @@ dependencies:
   - passagemath-nauty
   - passagemath-ntl
   - passagemath-objects
+  - passagemath-plot
   - passagemath-polyhedra
   - passagemath-ppl
-  - passagemath-plot
+  - passagemath-rankwidth
   - passagemath-repl
   - passagemath-symbolics
   - passagemath-tdlib
