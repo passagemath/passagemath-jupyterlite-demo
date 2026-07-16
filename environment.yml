@@ -5,7 +5,6 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  - cddlib
   - ecl
   - fricas0-ecl
   - frobby
@@ -19,9 +18,8 @@ dependencies:
   - pyscipopt
   - scipy
   - singular
-  - tarski
-  - topcom
   - passagemath-categories
+  - passagemath-cddlib
   - passagemath-cliquer
   - passagemath-cmr
   - passagemath-combinat
@@ -41,6 +39,7 @@ dependencies:
   - passagemath-polyhedra
   - passagemath-ppl
   - passagemath-rankwidth
+  - passagemath-qepcad
   - passagemath-repl
   - passagemath-symbolics
   - passagemath-tdlib
