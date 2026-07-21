@@ -23,6 +23,7 @@ dependencies:
   - passagemath-cliquer
   - passagemath-cmr
   - passagemath-combinat
+  - passagemath-ecl
   - passagemath-environment
   - passagemath-flint
   - passagemath-glpk
@@ -35,11 +36,12 @@ dependencies:
   - passagemath-nauty
   - passagemath-ntl
   - passagemath-objects
+  - passagemath-planarity
   - passagemath-plot
   - passagemath-polyhedra
   - passagemath-ppl
   - passagemath-rankwidth
-  - passagemath-qepcad
+  # - passagemath-qepcad  # 10.8.6 missing
   - passagemath-repl
   - passagemath-symbolics
   - passagemath-tdlib
