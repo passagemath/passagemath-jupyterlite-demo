@@ -42,7 +42,7 @@ dependencies:
   - passagemath-polyhedra
   - passagemath-ppl
   - passagemath-rankwidth
-  # - passagemath-qepcad  # 10.8.6 missing
+  - passagemath-qepcad
   - passagemath-repl
   - passagemath-symbolics
   - passagemath-tdlib
