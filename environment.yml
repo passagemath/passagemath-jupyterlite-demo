@@ -5,6 +5,7 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - cocoa5
   - ecl
   - fricas0-ecl
   - frobby
