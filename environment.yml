@@ -19,6 +19,7 @@ dependencies:
   - pyscipopt
   - scipy
   - singular
+  - jupyter-kernel-singular
   - passagemath-categories
   - passagemath-cddlib
   - passagemath-cliquer
