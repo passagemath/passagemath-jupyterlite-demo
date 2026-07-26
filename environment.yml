@@ -19,7 +19,7 @@ dependencies:
   - pyscipopt
   - scipy
   - singular
-  - jupyter-kernel-singular
+  # - jupyter-kernel-singular  # has unsatisfiable dep pysingular
   - passagemath-categories
   - passagemath-cddlib
   - passagemath-cliquer
