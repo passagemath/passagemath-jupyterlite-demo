@@ -6,7 +6,7 @@ dependencies:
   - xeus-python
   - ipycanvas
   - cocoa5
-  - ecl
+  # - ecl  # superseded by fricas0-ecl, per https://github.com/emscripten-forge/recipes/issues/6017#issuecomment-5083996289
   - fricas0-ecl
   - frobby
   - lrcalc-python
