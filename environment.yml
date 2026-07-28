@@ -33,6 +33,7 @@ dependencies:
   - passagemath-gsl
   - passagemath-highs
   - passagemath-iml
+  - passagemath-lcalc
   - passagemath-m4ri-m4rie
   - passagemath-modules
   - passagemath-nauty
