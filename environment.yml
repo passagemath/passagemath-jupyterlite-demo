@@ -33,7 +33,7 @@ dependencies:
   - passagemath-gsl
   - passagemath-highs
   - passagemath-iml
-  # - passagemath-lcalc  # Waiting for 10.8.7 upgrade in https://github.com/emscripten-forge/recipes/pull/6085
+  - passagemath-lcalc
   - passagemath-m4ri-m4rie
   - passagemath-modules
   - passagemath-nauty
