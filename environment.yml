@@ -26,6 +26,7 @@ dependencies:
   - passagemath-cmr
   - passagemath-combinat
   - passagemath-ecl
+  - passagemath-eclib
   - passagemath-environment
   - passagemath-flint
   - passagemath-glpk
@@ -47,6 +48,8 @@ dependencies:
   - passagemath-rankwidth
   - passagemath-qepcad
   - passagemath-repl
+  - passagemath-sirocco
   - passagemath-symbolics
+  - passagemath-sympow
   - passagemath-tdlib
   - passagemath-topcom
