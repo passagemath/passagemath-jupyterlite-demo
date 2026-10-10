@@ -54,3 +54,12 @@ dependencies:
   - passagemath-sympow
   - passagemath-tdlib
   - passagemath-topcom
+  # computop:
+  - cypari
+  - fxrays
+  - knot-floer-homology
+  - low-index
+  - plink
+  - snappy-computop
+  - snappy-manifolds
+  - spherogram
